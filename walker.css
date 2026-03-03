@@ -21,6 +21,7 @@ window .search {
 
 .box-wrapper {
   border-radius: 18px;
+  background: alpha(@base, 0.7);
 }
 
 child:selected {
