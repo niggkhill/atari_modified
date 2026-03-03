@@ -1,4 +1,4 @@
-# Atari
+# Atari Modified by Me
 
 ## 📦 Install -
    - Paste the command in your terminal ⬇️
